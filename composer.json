@@ -1,5 +1,5 @@
 {
-  "name": "muhittingulap/qnbfinansbank",
+  "name": "enesbektas/qnbfinansbank",
   "license": "MIT",
   "type": "library",
   "homepage": "https://github.com/muhittingulap/qnbfinansbank",
@@ -26,6 +26,6 @@
     }
   ],
   "require": {
-    "php": "^7.0"
+    "php": "^8.0"
   }
 }
